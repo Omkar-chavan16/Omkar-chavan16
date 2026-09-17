@@ -1,4 +1,3 @@
-
  # 💫 Hi 👋,  I'm Omkar Rajendra Chavan
 
 </p>
@@ -56,13 +55,11 @@
 
 ## 🌱 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+<!-- Snake Game Repo View -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🚀 Featured Projects
 
@@ -123,9 +120,25 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Omkar-chavan16&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Omkar-chavan16&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omkar-chavan16&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Omkar-chavan16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
 ## 📈 Contribution Graph
 
 [![Omkar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omkar-chavan16&theme=github-compact)](https://github.com/Omkar-chavan16)
